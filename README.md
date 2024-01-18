@@ -3,7 +3,8 @@ Repo for a collaboration testing
 
 ## Team
 1. Abby
-2. Tom
+2. Thomas
+3. Bruno
 
 # The Best Project EVER!
  We cannot describe this project with words.
